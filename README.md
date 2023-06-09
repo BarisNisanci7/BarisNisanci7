@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Barış</h1>
 <h3 align="center">I Am a Computer Engineering Student From Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisnisanci7&label=Profile%20views&color=0e75b6&style=flat" alt="barisnisanci7" /> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 
