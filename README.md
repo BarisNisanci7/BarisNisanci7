@@ -2,10 +2,7 @@
 <h3 align="center">I Am a Computer Engineering Student From Turkey</h3>
 
 
-
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - ⚡ Fun fact **Love to play American Football**
 
