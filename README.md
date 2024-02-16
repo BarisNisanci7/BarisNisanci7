@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Barış</h1>
-<h3 align="center">I Am a Computer Engineering Student From Turkey</h3>
+<h3 align="center">I Am a Computer Engineering Student From Türkiye</h3>
 
 
 - 🌱 I’m currently learning **Backend Development**
