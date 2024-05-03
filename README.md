@@ -2,7 +2,7 @@
 <h3 align="center">I Am a Computer Engineering Student From Türkiye</h3>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development and AVR Assembly for Embedded Systems**
 
 - ⚡ Fun fact **Love to play American Football**
 
