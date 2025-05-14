@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">Senior Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on **optimizing operating system scheduler with neural network.**
+- 🔭 I’m currently working on **optimizing operating system scheduler with machine learning algorithms.**
 
 - 🌱 I’m currently learning **Integration of neural network modifications for the Linux kernel.**
 
