@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">Senior Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on **optimizing operating system scheduler with machine learning algorithms.**
+- 🔭 I’m currently working on **KOMTAŞ as a data management engineer.**
 
-- 🌱 I’m currently learning **Integration of neural network modifications for the Linux kernel.**
+- 🌱 I’m currently building **systems for sim racing.**
 
-- ⚡ Fun fact **Love to play American Football**
+- ⚡ Fun fact **Love to play Deadlock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
